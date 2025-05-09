@@ -1,0 +1,59 @@
+
+.bold{
+    margin-top: 80px;
+    font-size: 50px;
+    color: #254b25;
+}
+
+#p1{
+    font-size: 25px;
+}
+
+.p2{
+    text-indent: 3%;
+}
+
+body{
+    background-image: url(bg.jpg);
+    background-attachment: fixed;
+}
+
+h2{
+    background-color:rgb(223, 223, 176);
+    margin-top: 80px;
+    margin-bottom: 50px;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding: 2%;
+    text-align: center;
+    color:#0e420e;
+    border-style: groove;
+    border-color: rgb(109, 98, 98);
+    border-top-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border: 1%;
+    font-weight: 600;
+    font-variant: small-caps;
+    font-size: 300%;
+}
+
+a:visited{
+    color:rgb(190, 30, 196);
+}
+
+a:hover{
+    color:rgb(15, 139, 71);
+    font-size: 30px;
+}
+
+a:focus{
+    color: red;
+}
+
+.opacity:hover{
+    opacity: .5;
+}
+
+.reg{
+    text-align: center;
+}
